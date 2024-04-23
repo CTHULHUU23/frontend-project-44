@@ -23,4 +23,5 @@ make install
 ### brain-even and installation:
 https://asciinema.org/a/ENqlWowsiKdQc6dvZMGXvBhbn
 
+### brain-calc
 
