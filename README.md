@@ -15,13 +15,26 @@ Brain-games is a set of mini-games launched from the console.
  
 ## Setup
 ```
+Ensure you have Node.js version 21.1.0 or higher installed. You can check your Node.js version by running `node -v` in your terminal.
 git clone https://github.com/CTHULHUU23/frontend-project-44.git
 cd frontend-project-44
 make install
 ```
 ## Demonstration:
 ### brain-even and installation:
-https://asciinema.org/a/ENqlWowsiKdQc6dvZMGXvBhbn
+[![asciicast](https://asciinema.org/a/ENqlWowsiKdQc6dvZMGXvBhbn.png)](https://asciinema.org/a/ENqlWowsiKdQc6dvZMGXvBhbn)
 
 ### brain-calc
+[![asciicast](https://asciinema.org/a/LFxJnqQk6DJfeCjJfDaihpP0I.png)](https://asciinema.org/a/LFxJnqQk6DJfeCjJfDaihpP0I)
+
+### brain-gcd
+[![asciicast](https://asciinema.org/a/cT2VU6lwnBKrp267nci9l5MFS.png)](https://asciinema.org/a/cT2VU6lwnBKrp267nci9l5MFS)
+
+### brain-prime
+[![asciicast](https://asciinema.org/a/LPJmxPd1UicIwHN1f8xarrzzx.png)](https://asciinema.org/a/LPJmxPd1UicIwHN1f8xarrzzx)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/MCSCiuu3YJwIlOUJ4pCfzamGO.png)](https://asciinema.org/a/MCSCiuu3YJwIlOUJ4pCfzamGO)
+
+
 
