@@ -7,11 +7,11 @@
 
 Brain-games is a set of mini-games launched from the console.
 
-1.**brain-even** - guess if a number is even.
-2.**brain-calc** - solve a math problem.
-3.**brain-gcd** - find the greatest common divisor of two numbers.
-4.**brain-prime** - determine if a number is prime.
-5.**brain-progression** - Identify the missing number in a progression.
+1. **brain-even** - guess if a number is even.
+2. **brain-calc** - solve a math problem.
+3. **brain-gcd** - find the greatest common divisor of two numbers.
+4. **brain-prime** - determine if a number is prime.
+5. **brain-progression** - Identify the missing number in a progression.
  
 ## Setup
 ```
