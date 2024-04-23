@@ -18,8 +18,9 @@ Brain-games is a set of mini-games launched from the console.
 git clone https://github.com/CTHULHUU23/frontend-project-44.git
 cd frontend-project-44
 make install
-npm link - it may require running with **sudo**
 ```
 ## Demonstration:
+### brain-even and installation:
+https://asciinema.org/a/ENqlWowsiKdQc6dvZMGXvBhbn
 
 
